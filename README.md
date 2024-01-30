@@ -1,1 +1,3 @@
 # Product-Classification-Using-LLM
+
+This innovative project applies Large Language Models (LLMs), specifically GPT and BERT,  to address the challenge of classifying products with limited or incomplete data. We focus on bridging data gaps in critical columns such as product descriptions, categorization labels, and particularly in marketing copy. Our approach is not only about classification; it also involves generating marketing copy and visualizing data to enhance our understanding of the dataset and model performance. This repository provides insights into methodologies, challenges, and the creative solutions we discovered throughout our journey.
